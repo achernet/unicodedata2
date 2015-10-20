@@ -1,4 +1,5 @@
-include README
+include README.md
 include LICENSE
 include unicodedata2/*.c
 include unicodedata2/*.h
+include tests/*.py
